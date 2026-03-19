@@ -4,7 +4,8 @@ A Flask-based web application that allows users to enter student marks and autom
 A full-stack web application built with Python Flask for managing
 student marks and generating grade reports.
 ## Screenshot
-![App Screenshot](screenshot.png)
+<img width="1343" height="540" alt="image" src="https://github.com/user-attachments/assets/095494d4-d05b-45f1-8f06-03ca3e6d7427" />
+
 ## Features
 - Add students with marks for 5 subjects
 - Auto-calculates total, percentage and grade for each student
