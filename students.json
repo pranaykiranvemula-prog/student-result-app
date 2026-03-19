@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2,
+    "name": "Jashwanth jonnalagadda",
+    "maths": 76,
+    "science": 98,
+    "english": 87,
+    "telugu": 75,
+    "hindi": 77
+  },
+  {
+    "id": 3,
+    "name": "Pranay Kiran Vemula",
+    "maths": 88,
+    "science": 78,
+    "english": 92,
+    "telugu": 85,
+    "hindi": 82
+  },
+  {
+    "id": 4,
+    "name": "Rithik swarna",
+    "maths": 89,
+    "science": 78,
+    "english": 80,
+    "telugu": 75,
+    "hindi": 82
+  },
+  {
+    "id": 5,
+    "name": "Aric swarna",
+    "maths": 95,
+    "science": 92,
+    "english": 88,
+    "telugu": 82,
+    "hindi": 86
+  }
+]
