@@ -5,7 +5,8 @@ A full-stack web application built with Python Flask for managing
 student marks and generating grade reports.
 ## Screenshot
 <img width="1328" height="636" alt="image" src="https://github.com/user-attachments/assets/9a5b6830-c5c0-4ec4-9725-c8ad4d180ce6" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5e1727cb-0f60-4e0b-b185-ba654fe1e343" />
+<img width="1363" height="513" alt="image" src="https://github.com/user-attachments/assets/40021aed-07ec-42d4-a147-8eecd7c4158e" />
+
 
 ## Features
 - Add students with marks for 5 subjects
